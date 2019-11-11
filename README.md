@@ -6,6 +6,9 @@ Live coding for control voltage
 
 ## Installing Microypython Thread Library
 
+If you have access to a board with the library already installed, just copy all the files to a new board.
+
+Otherwise:
 - Install micropip https://github.com/peterhinch/micropython-samples/tree/master/micropip. 
 - Copy the code in micropip.py 
 - Run the following code: `python3 micropip.py install -p /path/to/destination/of/micropython-uasyncio`
