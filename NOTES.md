@@ -17,7 +17,7 @@ Follow Supercollider function inteface (same names, same parameters)
 Patterns:
 - time intervals  
 
-cv
+CV inputs
 - 0/10v
 - -5/5v
 - trig
