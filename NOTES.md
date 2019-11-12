@@ -20,7 +20,7 @@ Patterns:
 cv
 - 0/10v
 - -5/5v
-trig
-gate
-clock
+- trig
+- gate
+- clock
 
