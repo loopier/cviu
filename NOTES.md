@@ -16,3 +16,11 @@ Follow Supercollider function inteface (same names, same parameters)
 
 Patterns:
 - time intervals  
+
+cv
+- 0/10v
+- -5/5v
+trig
+gate
+clock
+
